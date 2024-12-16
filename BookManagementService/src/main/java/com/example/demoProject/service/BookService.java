@@ -46,6 +46,4 @@ public class BookService {
         bookRepository.delete(book);
         return "book deleted successfully";
     }
-
-
 }
