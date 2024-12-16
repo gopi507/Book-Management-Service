@@ -1,0 +1,5 @@
+com\example\demoProject\BookManagementServiceApplication.class
+com\example\demoProject\model\Book.class
+com\example\demoProject\service\BookService.class
+com\example\demoProject\controller\BookController.class
+com\example\demoProject\repository\BookRepository.class
